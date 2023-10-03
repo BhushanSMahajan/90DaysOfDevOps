@@ -12,7 +12,7 @@ Examples:
 - ```ls -i ``` --> list the files and directories with index numbers inodes
 - ``` ls -d */``` --> list only directories.(we can also specify a pattern)
 
-### Directoy commands
+### Directory commands
 - ```pwd``` --> print work directory. Gives the present working directory.
 
 - ```cd path_to_directory``` --> change directory to the provided path
